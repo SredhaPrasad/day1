@@ -1,0 +1,26 @@
+.website{
+    color: rgb(0, 26, 128);
+    margin: 20px;
+    padding: 10px;
+    border: 3px;
+    border-style: dotted;
+    display: flex;
+    background-color: palevioletred;
+    justify-content:center;
+
+
+
+}
+.home{
+    margin-right:200px ;
+    padding: 8px 20px;
+    font-size: x-large;
+    justify-content: center;
+}
+.Contact{
+    margin-left: 200px ;
+    padding: 8px 20px;
+    font-size: x-large;
+    justify-content: center;
+
+}
